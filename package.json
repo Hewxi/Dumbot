@@ -1,0 +1,16 @@
+{
+  "name": "dumbass-bot",
+  "version": "1.0.0",
+  "description": "Heh",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hexia",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.4.0-dev.1639353941.2ce244b",
+    "fetch": "^1.1.0",
+    "node-vibrant": "^3.2.1-alpha.1"
+  }
+}
